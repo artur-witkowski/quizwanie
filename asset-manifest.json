@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa6ca97d.chunk.css",
-    "main.js": "/static/js/main.a3def0c9.chunk.js",
-    "main.js.map": "/static/js/main.a3def0c9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c91add0a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c91add0a.js.map",
-    "static/js/2.62faa2f3.chunk.js": "/static/js/2.62faa2f3.chunk.js",
-    "static/js/2.62faa2f3.chunk.js.map": "/static/js/2.62faa2f3.chunk.js.map",
-    "static/js/3.ca55d1eb.chunk.js": "/static/js/3.ca55d1eb.chunk.js",
-    "static/js/3.ca55d1eb.chunk.js.map": "/static/js/3.ca55d1eb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.aa6ca97d.chunk.css.map": "/static/css/main.aa6ca97d.chunk.css.map",
-    "static/js/2.62faa2f3.chunk.js.LICENSE.txt": "/static/js/2.62faa2f3.chunk.js.LICENSE.txt"
+    "main.css": "/quizwanie/static/css/main.aa6ca97d.chunk.css",
+    "main.js": "/quizwanie/static/js/main.a3def0c9.chunk.js",
+    "main.js.map": "/quizwanie/static/js/main.a3def0c9.chunk.js.map",
+    "runtime-main.js": "/quizwanie/static/js/runtime-main.d68813ea.js",
+    "runtime-main.js.map": "/quizwanie/static/js/runtime-main.d68813ea.js.map",
+    "static/js/2.62faa2f3.chunk.js": "/quizwanie/static/js/2.62faa2f3.chunk.js",
+    "static/js/2.62faa2f3.chunk.js.map": "/quizwanie/static/js/2.62faa2f3.chunk.js.map",
+    "static/js/3.ca55d1eb.chunk.js": "/quizwanie/static/js/3.ca55d1eb.chunk.js",
+    "static/js/3.ca55d1eb.chunk.js.map": "/quizwanie/static/js/3.ca55d1eb.chunk.js.map",
+    "index.html": "/quizwanie/index.html",
+    "static/css/main.aa6ca97d.chunk.css.map": "/quizwanie/static/css/main.aa6ca97d.chunk.css.map",
+    "static/js/2.62faa2f3.chunk.js.LICENSE.txt": "/quizwanie/static/js/2.62faa2f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c91add0a.js",
+    "static/js/runtime-main.d68813ea.js",
     "static/js/2.62faa2f3.chunk.js",
     "static/css/main.aa6ca97d.chunk.css",
     "static/js/main.a3def0c9.chunk.js"
